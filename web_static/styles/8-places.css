@@ -44,17 +44,20 @@
   }
   
     .max_guest {
-    background-image: url(../images/icon_group.png);
+    width: 100px;
 }
 
     .number_rooms {
-    background-image: url(../images/icon_bed.png);
+    width: 100px;
 }
 
     .number_bathrooms{
-    background-image: url(../images/icon_bath.png);
+    width: 100px;
 }
   
     .user {
     margin-top: 10px;
+}
+.description {
+    text-align: left;
 }
