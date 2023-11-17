@@ -1,12 +1,15 @@
 .places {
     margin-top: 20px;
-    display: flex
+    display: flex;
+    flex-wrap: wrap;
 
   }
   
   .places h1 {
     font-size: 30px;
     text-align: left;
+    width: 100%;
+
   }
   
   .places article {
